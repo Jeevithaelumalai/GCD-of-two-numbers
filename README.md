@@ -28,6 +28,7 @@ def gcd():
         if(n1%i==0 and n2%i==0):
             hcf=i
     print("GCD of two numbers is:",hcf)
+    
 ```
 
 ## Output:
